@@ -1,0 +1,206 @@
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T08:50:55.952Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2026-02-21T08:53:26.078Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T08:53:26.585Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:15:54.348Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:15:54.348Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T09:15:54.355Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at createPost (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:23:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T09:15:54.379Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:17:37.682Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:17:37.682Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T09:17:37.684Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at createPost (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:23:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T09:17:37.685Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:18:39.663Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:18:39.663Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T09:18:39.664Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-02-21T09:18:39.720Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2026-02-21T09:19:49.707Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T09:19:50.348Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:22:27.307Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:22:27.308Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"post-service","timestamp":"2026-02-21T09:22:27.313Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:22:52.819Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:22:52.820Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"post-service","timestamp":"2026-02-21T09:22:52.821Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:23:33.167Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:23:33.167Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"post-service","timestamp":"2026-02-21T09:23:33.168Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:24:03.299Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:24:03.300Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"post-service","timestamp":"2026-02-21T09:24:03.301Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:24:22.268Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:24:22.268Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"post-service","timestamp":"2026-02-21T09:24:22.270Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2026-02-21T09:24:30.807Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T09:24:31.333Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:24:34.209Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:24:34.210Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T09:24:34.213Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-02-21T09:24:34.265Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T09:25:10.902Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:25:10.902Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T09:25:10.905Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-02-21T09:25:10.947Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T09:55:22.441Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T09:55:22.441Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:04:16.452Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:04:16.452Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:04:56.480Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:04:56.481Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2026-02-21T10:05:14.349Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T10:05:14.941Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:05:17.339Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:05:17.340Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:05:17.430Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:05:20.606Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:05:20.607Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:05:20.727Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:05:54.530Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:05:54.531Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:05:54.686Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:06:35.452Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:06:35.453Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:06:35.539Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:07:19.159Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:07:19.160Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:07:19.239Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:09:40.530Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:09:40.530Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:09:40.602Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:12:04.221Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:12:04.222Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:12:04.355Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:13:53.313Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:13:53.314Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:13:53.389Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:14:59.697Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:14:59.697Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:14:59.786Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:15:34.226Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:15:34.227Z"}
+{"level":"error","message":"ReferenceError: error is not defined\n    at getAllPosts (C:\\Documents Windows\\Coding Stuff\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:75:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"post-service","timestamp":"2026-02-21T10:15:34.298Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2026-02-21T10:15:58.414Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T10:15:59.066Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:16:01.436Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:16:01.437Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:16:01.438Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T10:16:40.603Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:16:40.604Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T10:16:40.607Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-02-21T10:16:40.660Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T10:16:43.948Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:16:43.949Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T10:16:43.950Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-02-21T10:16:43.991Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T10:16:47.154Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:16:47.155Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T10:16:47.156Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-02-21T10:16:47.218Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:16:50.617Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:16:50.618Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:16:50.618Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:17:02.375Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:17:02.375Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:17:02.375Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?page=1&limit=4","service":"post-service","timestamp":"2026-02-21T10:17:59.913Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:17:59.914Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:17:59.914Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?page=0&limit=4","service":"post-service","timestamp":"2026-02-21T10:18:09.682Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:18:09.683Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:18:09.684Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?page=1&limit=4","service":"post-service","timestamp":"2026-02-21T10:18:33.359Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:18:33.360Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:18:33.361Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:18:47.302Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:18:47.303Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:18:47.303Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?limit=4","service":"post-service","timestamp":"2026-02-21T10:19:01.234Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:01.235Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:01.235Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?page=0&limit=4","service":"post-service","timestamp":"2026-02-21T10:19:13.279Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:13.279Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:13.279Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?page=0&limit=2","service":"post-service","timestamp":"2026-02-21T10:19:20.124Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:20.125Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:20.125Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?page=0&limit=2","service":"post-service","timestamp":"2026-02-21T10:19:46.307Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:46.308Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:46.308Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:19:51.229Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:51.230Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:51.230Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:19:53.798Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:53.798Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:53.799Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:19:56.014Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:56.014Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:56.014Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:19:58.111Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:19:58.111Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:19:58.112Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:20:00.279Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:20:00.280Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:20:00.280Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:20:03.016Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:20:03.017Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:20:03.017Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2026-02-21T10:31:31.486Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:31:31.486Z"}
+{"level":"info","message":"Hit Create post endpoint...","service":"post-service","timestamp":"2026-02-21T10:31:31.487Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2026-02-21T10:31:31.533Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:31:37.087Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:31:37.087Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:31:37.088Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:31:40.619Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:31:40.619Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:31:40.620Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:41:20.687Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:41:20.687Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:41:20.687Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts?limit=1","service":"post-service","timestamp":"2026-02-21T10:41:42.966Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:41:42.967Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:41:42.967Z"}
+{"level":"info","message":"Received GET request to /api/posts","service":"post-service","timestamp":"2026-02-21T10:48:26.301Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:48:26.301Z"}
+{"level":"info","message":"Received GET request to /api/posts/1","service":"post-service","timestamp":"2026-02-21T10:48:41.839Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:48:41.839Z"}
+{"level":"info","message":"Received GET request to /api/posts","service":"post-service","timestamp":"2026-02-21T10:48:56.326Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:48:56.327Z"}
+{"level":"info","message":"Received GET request to /api/posts/699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T10:49:13.865Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:49:13.865Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T10:49:47.154Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:49:47.155Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T10:49:47.155Z"}
+{"level":"info","message":"Received GET request to /api/posts/699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T10:50:02.906Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:50:02.906Z"}
+{"level":"info","message":"Received GET request to /api/posts/699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T10:51:46.018Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:51:46.018Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2026-02-21T10:52:06.724Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T10:52:07.224Z"}
+{"level":"info","message":"Received GET request to /api/posts/699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T10:52:08.838Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T10:52:08.839Z"}
+{"level":"info","message":"Hit Get post endpoint...","service":"post-service","timestamp":"2026-02-21T10:52:08.840Z"}
+{"level":"info","message":"Received GET request to /api/posts","service":"post-service","timestamp":"2026-02-21T11:05:34.202Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:05:34.203Z"}
+{"level":"info","message":"Received GET request to /api/posts","service":"post-service","timestamp":"2026-02-21T11:05:46.647Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:05:46.648Z"}
+{"level":"info","message":"Received GET request to /api/posts?id=699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T11:06:07.127Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:06:07.177Z"}
+{"level":"info","message":"Received GET request to /api/posts/699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T11:06:16.494Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:06:16.494Z"}
+{"level":"info","message":"Hit Get post endpoint...","service":"post-service","timestamp":"2026-02-21T11:06:16.495Z"}
+{"level":"info","message":"Received GET request to /api/posts/","service":"post-service","timestamp":"2026-02-21T11:06:30.300Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:06:30.300Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2026-02-21T11:08:29.137Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2026-02-21T11:08:29.666Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T11:09:03.585Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:09:03.586Z"}
+{"level":"info","message":"Hit Delete post endpoint...","service":"post-service","timestamp":"2026-02-21T11:09:03.587Z"}
+{"level":"info","message":"Received GET request to /api/posts/699989838c4305b30b3f8138","service":"post-service","timestamp":"2026-02-21T11:09:08.650Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:09:08.651Z"}
+{"level":"info","message":"Hit Get post endpoint...","service":"post-service","timestamp":"2026-02-21T11:09:08.651Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T11:10:32.768Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:10:32.769Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T11:10:32.770Z"}
+{"level":"info","message":"Received GET request to /api/posts/get-posts","service":"post-service","timestamp":"2026-02-21T11:10:37.892Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2026-02-21T11:10:37.893Z"}
+{"level":"info","message":"Hit Get all post endpoint...","service":"post-service","timestamp":"2026-02-21T11:10:37.893Z"}
