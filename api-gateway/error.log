@@ -2,3 +2,28 @@
 {"level":"error","message":"Proxy error: connect ECONNREFUSED ::1:3001","service":"api-gateway","timestamp":"2026-02-18T05:17:14.780Z"}
 {"level":"error","message":"Proxy error: connect ECONNREFUSED ::1:3001","service":"api-gateway","timestamp":"2026-02-18T05:19:24.806Z"}
 {"level":"error","message":"Proxy error: connect ECONNREFUSED ::1:3001","service":"api-gateway","timestamp":"2026-02-21T09:15:19.628Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T12:57:12.205Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T12:57:54.021Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T12:57:57.956Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T12:58:49.502Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T12:59:36.982Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:01:33.341Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:02:08.542Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:02:12.361Z"}
+{"level":"error","message":"Proxy error: socket hang up","service":"api-gateway","timestamp":"2026-02-23T13:03:30.887Z"}
+{"level":"error","message":"Proxy error: socket hang up","service":"api-gateway","timestamp":"2026-02-23T13:03:30.890Z"}
+{"level":"error","message":"Proxy error: socket hang up","service":"api-gateway","timestamp":"2026-02-23T13:05:42.375Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:05:57.362Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:06:10.003Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:06:54.402Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:07:00.530Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2026-02-23T13:07:18.415Z"}
+{"level":"error","message":"Proxy error: read ECONNRESET","service":"api-gateway","timestamp":"2026-02-23T13:41:58.946Z"}
+{"level":"error","message":"Proxy error: read ECONNRESET","service":"api-gateway","timestamp":"2026-02-23T13:41:58.956Z"}
+{"level":"error","message":"Proxy error: read ECONNRESET","service":"api-gateway","timestamp":"2026-02-23T13:44:14.553Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'userId')","service":"api-gateway","timestamp":"2026-02-23T14:06:16.381Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'userId')","service":"api-gateway","timestamp":"2026-02-23T14:08:10.968Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'userId')","service":"api-gateway","timestamp":"2026-02-23T14:08:38.828Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'userId')","service":"api-gateway","timestamp":"2026-02-23T14:08:58.224Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'userId')","service":"api-gateway","timestamp":"2026-02-23T14:10:10.470Z"}
+{"level":"error","message":"Proxy error: connect ECONNREFUSED ::1:3003","service":"api-gateway","timestamp":"2026-02-24T06:44:06.161Z"}
