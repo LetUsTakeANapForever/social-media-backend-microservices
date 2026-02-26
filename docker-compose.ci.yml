@@ -1,0 +1,25 @@
+services:
+  api-gateway:
+    build:
+      context: ./api-gateway
+    image: ${DOCKER_USERNAME}/api-gateway:latest
+
+  identity-service:
+    build:
+      context: ./identity-service
+    image: ${DOCKER_USERNAME}/identity-service:latest
+
+  post-service:
+    build:
+      context: ./post-service
+    image: ${DOCKER_USERNAME}/post-service:latest
+
+  media-service:
+    build:
+      context: ./media-service
+    image: ${DOCKER_USERNAME}/media-service:latest
+
+  search-service:
+    build:
+      context: ./search-service
+    image: ${DOCKER_USERNAME}/search-service:latest
